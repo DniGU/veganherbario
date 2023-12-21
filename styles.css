@@ -370,7 +370,7 @@ footer .container{
 }
 
 
-@media (min-width: 640px) {
+@media (min-width: 1000px) {
 
     header{
         position: fixed;
